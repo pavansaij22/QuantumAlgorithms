@@ -7,9 +7,9 @@ import math
 from typing import Optional, Union, List, Callable
 import numpy as np
 
-import helper
-import state
-import tensor
+import Helper
+import State
+import Tensor
 
 
 class Operator(tensor.Tensor):
