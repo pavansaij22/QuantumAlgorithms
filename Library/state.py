@@ -8,8 +8,8 @@ from typing import List, Optional
 
 import numpy as np
 
-import lib.helper as helper
-import lib.tensor as tensor
+import Library.helper as helper
+import Library.tensor as tensor
 
 
 class State(tensor.Tensor):
