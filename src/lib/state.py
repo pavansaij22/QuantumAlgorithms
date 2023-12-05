@@ -8,8 +8,8 @@ from typing import List, Optional
 
 import numpy as np
 
-import lib.helper as helper
-import lib.tensor as tensor
+import QuantumAlgorithms.src.lib.helper as helper
+import QuantumAlgorithms.src.lib.tensor as tensor
 
 
 class State(tensor.Tensor):
